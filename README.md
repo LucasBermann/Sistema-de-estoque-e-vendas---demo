@@ -1,4 +1,4 @@
-# Sistema-de-estoque-e-vendas---demo
+# Sistema de estoque e vendas - demo
 
 Demonstração gerenciamento de acessos do sistema:
 
