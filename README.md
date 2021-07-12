@@ -1,6 +1,6 @@
 # Sistema de estoque e vendas - demo
 
-Demonstração do gerenciamento de acessos do sistema (se o gif parar, atualize a página (F5)):
+Demonstração do gerenciamento de acessos do sistema (para reiniciar o gif, atualize a página (F5)):
 
 ![Permissoes_demo](Permissoes_demo.gif)
 
